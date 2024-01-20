@@ -8,4 +8,13 @@ Have you ever looked into the skies at night, and wondered what’s out there? W
 
 
 ## Custom Mods
-- [[_modindex]]
+- [[Mods]]
+
+## [[Guides]]
+
+## [[Guidelines]]
+
+## [[Rules]]
+
+
+
