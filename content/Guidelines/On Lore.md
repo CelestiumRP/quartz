@@ -1,0 +1,1 @@
+All things that are done in RP, and any widely accepted piece of lore written by players on things like religion, will be considered canon.

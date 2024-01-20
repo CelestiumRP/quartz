@@ -1,0 +1,3 @@
+Any action that a player does can be considered canon by themselves, however if an action is happening, while there is an RP session happening within the vicinity of the event, then those actions are also considered canon. Anything that happens during an RP event, is considered canon, and cannot be retconned. 
+
+An RP event is simply any event where players choose to RP(by using localchat) with each other, these can be big or small. For more significant events, it would be smart to keep written records of what happens, in case any issues arise between groups.
