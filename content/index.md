@@ -12,8 +12,11 @@ Have you ever looked into the skies at night, and wondered what’s out there? W
 
 ## [[Guides]]
 
-## [[Guidelines]]
 
+## [[Guidelines]]
+- [[On Lore]]
+- [[On Religion]]
+- [[On RP]]
 ## [[Rules]]
 
 
