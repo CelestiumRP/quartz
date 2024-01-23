@@ -6,7 +6,9 @@ Celestium is taking a unique approach to religion and how it is done compared to
 
 Gods are the entities responsible for the principal elements of the universe, these be planets, stars, the wind, the water, the earth, and any other principal elements.
 
-Gods cannot take a physical form, since their form are the elements
+Gods cannot take a physical form, since their form are the elements.
+
+Gods can be named differently for different cultures, but are still the same god.
 
 ### Spirits
 

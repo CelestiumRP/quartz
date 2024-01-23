@@ -5,13 +5,13 @@ title: Mods
 - [[Blue Skies]]
 - [[Carry On]]
 - [[Discord Bot]]
-- [[Feverstone Wilds]]
+- [[Feverstone Horses]]
 - [[Joy of Sailing]]
 - [[Simple Wind Direction]]
 - [[Lower Shield]]
 - [[Playerlist]]
 - [[Vinconomy]]
-- [[VS Instruments]]
+- [[Pet AI]]
 
 ## Features
 ## QoL
