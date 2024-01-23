@@ -1,4 +1,4 @@
-## The Baiscs
+## The Basics
 
 Celestium is taking a unique approach to religion and how it is done compared to other worldbuilding server, we will respect all player made religions as canon, but they must follow these standards.
 
