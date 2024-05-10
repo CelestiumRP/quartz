@@ -1,0 +1,1 @@
+Collecting large quantities of stone in the base game can become really frustrating once you start creating anything larger than a small house, so the server includes the Stone Quarry mod to aid players in creating their own masterpieces of masonry
