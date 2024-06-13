@@ -1,6 +1,4 @@
 ---
-title: Welcome to Quartz
+title: Welcome to Celestium RP!
 ---
-	
-	This is a blank Quartz installation.
-	See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+This wiki is a heavy WIP and only has the bare minimum. Sry.
